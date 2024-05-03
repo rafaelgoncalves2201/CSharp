@@ -1,0 +1,14 @@
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.AssemblyInfoInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.AssemblyInfo.cs
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.csproj.CoreCompileInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\bin\Debug\net8.0\Treino3While.exe
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\bin\Debug\net8.0\Treino3While.deps.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\bin\Debug\net8.0\Treino3While.runtimeconfig.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\bin\Debug\net8.0\Treino3While.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\bin\Debug\net8.0\Treino3While.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\refint\Treino3While.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\Treino3While.genruntimeconfig.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Treinos\Treino3While\Treino3While\obj\Debug\net8.0\ref\Treino3While.dll
