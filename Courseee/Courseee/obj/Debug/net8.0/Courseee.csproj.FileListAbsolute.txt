@@ -1,0 +1,14 @@
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\bin\Debug\net8.0\Courseee.exe
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\bin\Debug\net8.0\Courseee.deps.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\bin\Debug\net8.0\Courseee.runtimeconfig.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\bin\Debug\net8.0\Courseee.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\bin\Debug\net8.0\Courseee.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.AssemblyInfoInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.AssemblyInfo.cs
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.csproj.CoreCompileInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\refint\Courseee.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\Courseee.genruntimeconfig.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Courseee\Courseee\obj\Debug\net8.0\ref\Courseee.dll

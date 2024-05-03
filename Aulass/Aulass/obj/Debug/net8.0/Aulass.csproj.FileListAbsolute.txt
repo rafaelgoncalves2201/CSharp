@@ -1,0 +1,14 @@
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\bin\Debug\net8.0\Aulass.exe
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\bin\Debug\net8.0\Aulass.deps.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\bin\Debug\net8.0\Aulass.runtimeconfig.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\bin\Debug\net8.0\Aulass.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\bin\Debug\net8.0\Aulass.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.AssemblyInfoInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.AssemblyInfo.cs
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.csproj.CoreCompileInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\refint\Aulass.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\Aulass.genruntimeconfig.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aulass\Aulass\obj\Debug\net8.0\ref\Aulass.dll

@@ -1,0 +1,14 @@
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.AssemblyInfoInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.AssemblyInfo.cs
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\bin\Debug\net8.0\ExercicioOrientacao.exe
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\bin\Debug\net8.0\ExercicioOrientacao.deps.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\bin\Debug\net8.0\ExercicioOrientacao.runtimeconfig.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\bin\Debug\net8.0\ExercicioOrientacao.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\bin\Debug\net8.0\ExercicioOrientacao.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\refint\ExercicioOrientacao.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ExercicioOrientacao.genruntimeconfig.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\ExercicioOrientacao\ExercicioOrientacao\obj\Debug\net8.0\ref\ExercicioOrientacao.dll

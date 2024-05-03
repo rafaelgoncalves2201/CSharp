@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD6FC0-31C0-441C-B019-4E75117FBAF1}|Desafio\\Desafio.csproj|c:\\users\\rgcar\\onedrive\\\u00E1rea de trabalho\\c#\\aulas\\desafio\\desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD6FC0-31C0-441C-B019-4E75117FBAF1}|Desafio\\Desafio.csproj|solutionrelative:desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Desafio\\Desafio\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Desafio\\Desafio\\Program.cs",
+              "RelativeToolTip": "Desafio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:33:52.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

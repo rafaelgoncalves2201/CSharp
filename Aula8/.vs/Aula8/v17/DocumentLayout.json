@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Aula8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC1A53C-88F1-4033-9B8F-94A512C37C70}|Aula8\\Aula8.csproj|c:\\users\\rgcar\\onedrive\\\u00E1rea de trabalho\\c#\\aulas\\aula8\\aula8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC1A53C-88F1-4033-9B8F-94A512C37C70}|Aula8\\Aula8.csproj|solutionrelative:aula8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Aula8\\Aula8\\Program.cs",
+              "RelativeDocumentMoniker": "Aula8\\Program.cs",
+              "ToolTip": "C:\\Users\\rgcar\\OneDrive\\\u00C1rea de Trabalho\\C#\\Aulas\\Aula8\\Aula8\\Program.cs",
+              "RelativeToolTip": "Aula8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:03:44.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

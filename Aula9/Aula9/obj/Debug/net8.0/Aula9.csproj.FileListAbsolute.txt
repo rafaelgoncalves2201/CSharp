@@ -1,0 +1,14 @@
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\bin\Debug\net8.0\Aula9.exe
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\bin\Debug\net8.0\Aula9.deps.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\bin\Debug\net8.0\Aula9.runtimeconfig.json
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\bin\Debug\net8.0\Aula9.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\bin\Debug\net8.0\Aula9.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.AssemblyInfoInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.AssemblyInfo.cs
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.csproj.CoreCompileInputs.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\refint\Aula9.dll
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.pdb
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\Aula9.genruntimeconfig.cache
+C:\Users\rgcar\OneDrive\Área de Trabalho\C#\Aulas\Aula9\Aula9\obj\Debug\net8.0\ref\Aula9.dll
